@@ -1,41 +1,38 @@
-layout: page
-title: "Houston Physician Medical Billing - Thrive Rite | Medical Billing"
-permalink: /
+<p align="center">
+  <img src="https://github.com/enstepgabriel/thriverite.com/blob/11ae13f8a07719d25f00ed0169a3221356373154/images/thriverite_logo.jpg">
+</p>
 
-## Welcome to GitHub Pages
+# Houston Physician Medical Billing
+**ThriveRite** specializes in assisting our clients with Houston Physician Medical Billing to enhance patient care through integrated solutions.
+We provide a comprehensive suite of business process and technology services that empower Houston physicians to practice with greater mobility and clinical care, while realizing improved financial performance.
 
-You can use the [editor on GitHub](https://github.com/enstepgabriel/thriverite.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### ThriveRite: A Leader in Revenue Cycle Services
+ThriveRite has proven to be a valuable partner to the medical community since 1992.  We provide technical expertise and solutions to help physicians’ practices become more efficient and save money.  As a strategic resource, ThriveRite’ experience in the technology space, as well as full knowledge of medical office procedures makes us an important asset to the multiple healthcare facilities that we work with each day.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Deliver Enhanced Patient Care and Improve Financial Performance
+ThriveRite passionately supports healthcare provider success through a comprehensive suite of business processes and technology services. Our high-value solutions enable private practice groups to achieve predictable, sustainable and cost-beneficial results.
 
-### Markdown
+To improve the overall patient and practice experience, we combine our physician practice expertise with revenue cycle management, clinical transformation, business process and IT skill sets, delivering:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Electronic Medical Records
+- Electronic Practice Management
+- Application Hosting
+- Revenue Cycle Transformation
+- Patient Access
+- Medical Coding
+- Billings and Collections
+- Extended Business Office
+- Health Information Exchange (HIE)
+- Mobile Computing
+- Credentialing
 
-```markdown
-Syntax highlighted code block
+The company is headquartered in Houston Texas, and services clients throughout the United States, including Hawaii.
 
-# Header 1
-## Header 2
-### Header 3
+## Contact ThriveRite for Technology to Help You Run Your World.
 
-- Bulleted
-- List
+10605 Grant Rd. Suite 201
+Houston, Texas 77070 USA
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/enstepgabriel/thriverite.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+800.771.6701
+Fax: 888.808.0822
+E-mail: [info@thriverite.com](mailto:info@thriverite.com)
