@@ -1,5 +1,6 @@
 layout: page
 title: "Houston Physician Medical Billing - Thrive Rite | Medical Billing"
+permalink: /
 
 ## Welcome to GitHub Pages
 
