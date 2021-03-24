@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/enstepgabriel/thriverite.com/blob/11ae13f8a07719d25f00ed0169a3221356373154/images/thriverite_logo.jpg">
+  <img src="images/thriverite_logo.jpg">
 </p>
 
 ## ThriveRite - Houston Physician Medical Billing
