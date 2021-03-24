@@ -29,9 +29,9 @@ To improve the overall patient and practice experience, we combine our physician
 The company is headquartered in Houston Texas, and services clients throughout the United States, including Hawaii.
 
 ## Contact ThriveRite for Technology to Help You Run Your World.
-<p>10605 Grant Rd. Suite 201</br>
+10605 Grant Rd. Suite 201  
 Houston, Texas 77070 USA
 
-800.771.6701</br>
-Fax: 888.808.0822</br>
-E-mail: [info@thriverite.com](mailto:info@thriverite.com)</p>
+800.771.6701  
+Fax: 888.808.0822  
+E-mail: [info@thriverite.com](mailto:info@thriverite.com)
