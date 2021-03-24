@@ -2,7 +2,7 @@
   <img src="https://github.com/enstepgabriel/thriverite.com/blob/11ae13f8a07719d25f00ed0169a3221356373154/images/thriverite_logo.jpg">
 </p>
 
-# Houston Physician Medical Billing
+## ThriveRite - Houston Physician Medical Billing
 **ThriveRite** specializes in assisting our clients with Houston Physician Medical Billing to enhance patient care through integrated solutions.
 We provide a comprehensive suite of business process and technology services that empower Houston physicians to practice with greater mobility and clinical care, while realizing improved financial performance.
 
@@ -29,10 +29,9 @@ To improve the overall patient and practice experience, we combine our physician
 The company is headquartered in Houston Texas, and services clients throughout the United States, including Hawaii.
 
 ## Contact ThriveRite for Technology to Help You Run Your World.
-
-10605 Grant Rd. Suite 201
+10605 Grant Rd. Suite 201</br>
 Houston, Texas 77070 USA
 
-800.771.6701
-Fax: 888.808.0822
+800.771.6701</br>
+Fax: 888.808.0822</br>
 E-mail: [info@thriverite.com](mailto:info@thriverite.com)
