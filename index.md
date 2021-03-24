@@ -1,3 +1,6 @@
+layout: page
+title: "Houston Physician Medical Billing - Thrive Rite | Medical Billing"
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/enstepgabriel/thriverite.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
